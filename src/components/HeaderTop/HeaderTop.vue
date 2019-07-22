@@ -1,5 +1,5 @@
 <template>
-     <!--首页头部-->
+     <!--头部-->
     <header class="header">
         <slot name="left"></slot>
         <span class="header_title">
