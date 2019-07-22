@@ -19,3 +19,16 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## src
+api  与后台交互模块文件夹
+common  通用资源文件夹，如fonts/img/stylus
+components  非路由组件文件夹
+filters  自定义过滤器模块文件夹
+mock  模拟数据接口文件夹
+pages  路由组件文件夹
+router  路由器文件夹
+store  vuex相关组件文件夹
+App.vue  应用组件
+maiin.js  入口JS
